@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bharatshinde0
+- 👋 Hi, I’m @bharatshinde
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning computer engineering
 - 
