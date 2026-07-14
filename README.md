@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Bharat Shinde 👋<br><br>🎓 I am a Computer Engineering student and an aspiring **Full-Stack Developer** from Maharashtra, India.<br><br>💻 I enjoy building modern and useful web applications using the **MERN Stack**. I have developed projects such as an **AI chat application**, a **video calling application**, and a **personal portfolio website**.<br><br>🚀 I am currently improving my skills in **JavaScript, React.js, Node.js, MongoDB, Java, Git, GitHub, WebRTC, Socket.IO**, and **Data Structures and Algorithms**.<br><br>🌱 I enjoy learning new technologies, solving coding problems, and creating real-world projects that improve my development skills.<br>
+# Hi, I'm Bharat Shinde 👋<br><br>🎓 Computer Engineering student and aspiring **Full-Stack Developer** from Maharashtra, India.<br><br>💻 I enjoy building **MERN Stack projects** and improving my skills in JavaScript, React.js, Node.js, MongoDB, Git, GitHub, and DSA.<br>
 
 
 ## 🌐 Socials:
